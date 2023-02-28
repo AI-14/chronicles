@@ -1,0 +1,16 @@
+version: "1.0"
+services:
+ frontend_app:
+  container_name: frontend_app
+  image: frontend_app:react 
+  build: ./frontend
+  ports:
+   - "3000:3000"
+
+ backend_api:
+  container_name: backend_api
+  image: backend_api:django
+  build: ./backend
+  ports:
+   - "8000:8000"
+
