@@ -60,7 +60,7 @@ It is a full-stack blog web application built with React on the frontend and Dja
 
 ## Demo <a name="demo"></a>
 
-Check the video demo at [Chronicles Demo]()
+Check the video demo at [https://youtu.be/70gXH6j7XtQ](https://youtu.be/70gXH6j7XtQ)
 
 ## Screenshots <a name="screenshots"></a>
 
