@@ -13,6 +13,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=sqlite&logoColor=blue)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-orange?style=flat)
 ![AWS RDS](https://img.shields.io/badge/-AWS%20RDS-orange?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=blue)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman&logoColor=orange)
 
 # Table of contents
