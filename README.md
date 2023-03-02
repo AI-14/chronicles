@@ -125,7 +125,8 @@ All the endpoints are listed below. However, to view the details of the endpoint
   - `python >= 3.8`
   - `pip >= 21.3.1`
   - `AWS account` - if you want to use AWS
-  - Setup variables in the `backend/config.py` file to encapsulate all your secret-keys related to AWS.
+  - Setup variables in the `backend\config.py` file to encapsulate all your secret-keys related to AWS. However, if you do not want to use AWS-S3, then remove
+  all the configs in `backend\core\settings.py` file under `AWS-S3` comment heading and variables from `backend\config.py`. This will use your local machine for image storage. And if you want to use your local machine db rather than AWS-RDS, then use your credentials in the `backend\config.py` file. 
 - `git clone https://github.com/AI-14/chronicles.git` - clones the repository
 - `cd chronicles`
 
