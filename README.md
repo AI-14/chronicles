@@ -16,7 +16,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=blue)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman&logoColor=orange)
 
-# Table of contents
+## Table of contents
 
 1. [Description](#description)
 2. [Demo](#demo)
