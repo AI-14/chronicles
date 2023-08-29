@@ -1,21 +1,5 @@
 # Chronicles
 
-![HTML](https://img.shields.io/badge/-HTML-gray?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-1fb30e?style=flat&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-566be8?style=flat&logo=tailwindcss)
-![Zustand](https://img.shields.io/badge/-Zustand-566be8?style=flat&logo=zustand)
-![React-Query](https://img.shields.io/badge/-React%20Query-f2cbde?style=flat&logo=reactquery)
-![Django](https://img.shields.io/badge/-Django-9ef0b4?style=flat&logo=django&logoColor=darkgreen)
-![DjangoRestFramework](https://img.shields.io/badge/-Django%20Rest%20Framework-9ef0b4?style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=sqlite&logoColor=blue)
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-orange?style=flat)
-![AWS RDS](https://img.shields.io/badge/-AWS%20RDS-orange?style=flat)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=blue)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman&logoColor=orange)
-
 ## Table of contents
 
 1. [Description](#description)
